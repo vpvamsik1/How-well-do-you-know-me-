@@ -4,7 +4,7 @@
   }
   #H1{
     color: white;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", sans-serif, 'Times New Roman', Times, serif !important;
     display: block;
     margin: 0 auto;
     text-align: center;
