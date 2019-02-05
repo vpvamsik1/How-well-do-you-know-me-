@@ -115,6 +115,10 @@
     border-radius: 50%;
   }
 
+  #H1{
+    font-family: "Comic Sans MS", sans-serif, 'Times New Roman', Times, serif !important;
+  }
+
   #B3{
     color: red;
     background-color: white;
